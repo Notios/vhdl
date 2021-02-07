@@ -21,4 +21,4 @@ begin
 end Behavioral;
 ```
 #### Schematic
-![alt text](https://github.com/Notios/vhdl/blob/main/Ex_1.PNG "Ex_1")
+![alt text](https://github.com/Notios/vhdl/blob/main/images/Ex_1.PNG "Ex_1")
