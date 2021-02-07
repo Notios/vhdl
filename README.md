@@ -1,5 +1,6 @@
 # VHDL
 #### Digital System Design Laboratory from NKUA
+#### Department of Digital Industry Technologies
 
 Coding with [Vivado HL WebPACK Edition](https://www.xilinx.com/support/download.html) by XILINX
 
