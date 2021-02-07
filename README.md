@@ -6,3 +6,5 @@ Coding with [Vivado HL WebPACK Edition](https://www.xilinx.com/support/download.
 ---
 #### [Simple Logic Circuit](https://github.com/Notios/vhdl/blob/main/Ex_1.md)
 #### [D LATCH](https://github.com/Notios/vhdl/blob/main/Ex_2.md)
+#### [If - elsif - else](https://github.com/Notios/vhdl/blob/main/Ex_3.md)
+
